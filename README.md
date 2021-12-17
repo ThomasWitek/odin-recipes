@@ -1,1 +1,1 @@
-# odin-recipes
+Project for Odin Foundation to develop HTML, command line, and basic developer knowledge.
